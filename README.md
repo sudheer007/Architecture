@@ -1,0 +1,2 @@
+# Architecture
+High scalability options
